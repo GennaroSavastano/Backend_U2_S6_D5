@@ -1,6 +1,7 @@
 package it.epicode.viaggio.viaggio;
 
 
+
 import jakarta.persistence.*;
 import jakarta.validation.constraints.FutureOrPresent;
 import jakarta.validation.constraints.NotBlank;
